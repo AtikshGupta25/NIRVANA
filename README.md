@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Upnext AI Opportunity Navigator
 
@@ -50,3 +51,6 @@ This project uses the open-source Streamlit and LangGraph libraries. Their respe
 ## Status
 
 Hackathon prototype.
+=======
+# NIRVANA
+>>>>>>> origin/main
